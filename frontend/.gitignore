@@ -41,9 +41,6 @@ next-env.d.ts
 /app/(routes)/(user)/about
 /app/(routes)/(user)/achievements
 /app/(routes)/(user)/api
-/app/(routes)/(user)/apeal
-/app/(routes)/(user)/complaints-procedure
-/app/(routes)/(user)/contact-us
 
 
 
