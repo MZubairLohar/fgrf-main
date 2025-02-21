@@ -38,9 +38,6 @@ next-env.d.ts
 
 /app/(admin)
 /app/(admin1)
-/app/(routes)/(user)/about
-/app/(routes)/(user)/achievements
-/app/(routes)/(user)/api
 
 
 
