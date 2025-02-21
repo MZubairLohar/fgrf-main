@@ -45,7 +45,25 @@ next-env.d.ts
 /components/home
 /components/modal
 /components/navigation
-/components/newUi
+/components/newUi/achievement
+/components/newUi/about
+/components/newUi/appeal
+/components/newUi/complaintsProcedure
+/components/newUi/config
+/components/newUi/contactUs
+/components/newUi/contextApi
+/components/newUi/dashboard
+/components/newUi/donation
+/components/newUi/donationComponent
+/components/newUi/Footer
+/components/newUi/gallery
+/components/newUi/home
+/components/newUi/modal
+/components/newUi/navBar
+/components/newUi/news
+/components/newUi/ourDepartment
+/components/newUi/privacyPolicy
+
 
 
 
