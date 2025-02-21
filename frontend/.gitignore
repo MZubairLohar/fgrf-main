@@ -36,6 +36,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-/app
+/app/(admin)
+/app/(admin1)
+/app/(routes)
+/app/api
 /components
 /public
