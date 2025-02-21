@@ -39,6 +39,6 @@ next-env.d.ts
 /app/(admin)
 /app/(admin1)
 /app/(routes)
-/app/api
+
 /components
 /public
