@@ -38,7 +38,20 @@ next-env.d.ts
 
 /app/(admin)
 /app/(admin1)
-/app/(routes)
+/app/(routes)/(user)/about
+/app/(routes)/(user)/achievements
+/app/(routes)/(user)/api
+/app/(routes)/(user)/apeal
+/app/(routes)/(user)/complaints-procedure
+/app/(routes)/(user)/contact-us
+/app/(routes)/(user)/donation
+/app/(routes)/(user)/gallary
+/app/(routes)/(user)/news
+/app/(routes)/(user)/our-department
+/app/(routes)/(user)/paypal-error
+/app/(routes)/(user)/paypal-success
+
+
 
 /components
 /public
