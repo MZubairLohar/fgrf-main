@@ -37,5 +37,17 @@ yarn-error.log*
 next-env.d.ts
 
 
-/components
+/components/3dModel
+/components/achievement
+/components/backgroundCanvas
+/components/donationApeal
+/components/gallery
+/components/home
+/components/modal
+/components/navigation
+/components/newUi
+/components/utils
+
+
+
 /public
