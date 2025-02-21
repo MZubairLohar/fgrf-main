@@ -46,10 +46,7 @@ next-env.d.ts
 /app/(routes)/(user)/contact-us
 /app/(routes)/(user)/donation
 /app/(routes)/(user)/gallary
-/app/(routes)/(user)/news
-/app/(routes)/(user)/our-department
-/app/(routes)/(user)/paypal-error
-/app/(routes)/(user)/paypal-success
+/app/(routes)/(user)/newss
 
 
 
