@@ -36,8 +36,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-
-/components/3dModel
 /components/achievement
 /components/backgroundCanvas
 /components/donationApeal
