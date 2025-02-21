@@ -40,7 +40,6 @@ next-env.d.ts
 
 
 
-/public/
 /public/3dModel
 /public/achievement
 /public/backgroundCanvas
