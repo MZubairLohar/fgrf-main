@@ -37,9 +37,6 @@ yarn-error.log*
 next-env.d.ts
 
 /app/(admin)
-/app/(admin1)
-
-
 
 /components
 /public
