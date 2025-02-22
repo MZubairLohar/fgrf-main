@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: "/api/:path*",
-        destination: "https://fgrf-iomt.vercel.app/:path*",
+        destination: "https://backend-fgrf.vercel.app/:path*",
       },
     ];
   },
