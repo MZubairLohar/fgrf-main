@@ -11,7 +11,7 @@ const AppealSection = () => {
     {
       link: "ramadan",
       img: "/Final/ramadan.png",
-      title: "Ramadan 2024",
+      title: "Ramadan 2025",
       desc: "Stand in solidarity with Palestinians in Gaza.",
     },
     {
